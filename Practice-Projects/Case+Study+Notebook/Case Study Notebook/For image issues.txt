@@ -1,0 +1,2 @@
+The image files used in the notebook are in a separate folder.
+If the images don't load while you're using the notebook, run that code once again.

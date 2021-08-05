@@ -1,0 +1,13 @@
+﻿Column Name,Description
+Runs,"The number of runs scored by Virat in that particular match. If he remained not out, then it has been marked by an asterisk (*)"
+Mins,Total time taken by Virat to score the runs. Essentially the time for which Virat batted in that match.
+BF,Total number of balls faced by Virat to score the runs in that match.
+4s,Number of fours hit by Virat in that match
+6s,Number of sixes hit by Virat in that match
+SR,The strike rate of Virat in that match.
+Pos,The batting position of Virat in that match.
+Dismissal,The mode of dismissal in that match.
+Inns,Denotes whether team batted first or batted second
+Opposition,The opposition country against which Virat played.
+Ground,The ground where the match was played.
+Start Date,The date when the match was played.

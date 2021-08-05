@@ -1,0 +1,48 @@
+term
+- median, q25, q75 income is lower for both short and long term
+- median, q25, q75 dti are marginally higher - especially in short term
+- median, q25, q75 installments are lower for short term but much higher for long term
+- median, q25, q75 instrest rates are higher
+
+grade
+- median, q25, q75 annual income is lower for all grades
+- median, q25, q75 dti is higher for grade A, B, C
+- median, q25 dti is lower for grade G
+- median, q25, q75 instalment is lower for for all grades except F where its higher
+- min interest rates for charged off is higher across all grades
+- median, q25, q75 loan are lower for grade A, G
+
+emp_length
+- median, q25, q75 income is lower for all values
+- median, q25, q75 dti are generally marginally higher
+- median, q25, q75 int rate is higher for charged off
+- median, q25, q75 loan amount is generally higher or equal
+- min loan amount is generally higher
+
+home_ownership
+- median, q25, q75 income is lower
+- median, q25, q75 dti mostly higher
+- median, q75 insallment higher
+- median, q25, q75 int rate is higher
+- median, q75 loan amount is higher
+
+verification_status
+- similar pattern
+
+purpose
+- median, q25, q75 income is lower
+- median, q25, q75 dti for medical is lower
+- median, q25, q75 installment for house, moving, other, renewable_energy,  is lower
+- int rates are higher
+- median, q25, q75 installment for house, moving, other, renewable_energy,  is lower
+
+pub_rec_bankruptcies
+- median, q25, q75 income is higher for prb=2
+- median, q75 income is lower for prb=2
+- median, q25, q75 installment much higher
+- median, q25, q75 int rate is lower
+- median, q75 loan amount is much higher
+
+issue_month
+- similar pattern
+- Aug, May installment is lower
