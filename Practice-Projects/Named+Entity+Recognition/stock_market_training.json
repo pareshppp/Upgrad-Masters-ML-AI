@@ -1,0 +1,106 @@
+{
+	"annotations": [
+		["The share price of PVR rose over 7 percent on Wednesday after the multiplex chain said that it has reduced losses in Q2 despite nil revenue from the core movie exhibition business.",
+			{
+				"entities": [
+					[19, 22, "COMPANY"],
+					[33, 42, "PERCENTAGE"],
+					[46, 55, "WEEKDAY"]
+				]
+			}
+		],
+		["The company managed to get rent waivers from most landlords, CFO Nitin Sood said in an interview to CNBC-TV18. “The big focus for us right now as revenues have been nil is to really reduce our fixed cost and we have managed to do that, ' he added.",
+			{
+				"entities": [
+					[61, 64, "ROLE"],
+					[65, 75, "NAME"]
+				]
+			}
+		],
+		["Sood further said that they have brought down the fixed cost down by almost 75-80 percent.",
+			{
+				"entities": [
+					[0, 4, "NAME"],
+					[76, 89, "PERCENTAGE"]
+				]
+			}
+		],
+		["The stock rose as much as 7.6 percent to the day's high of Rs 1,186.85 per share on the BSE.",
+			{
+				"entities": [
+					[26, 37, "PERCENTAGE"],
+					[59, 70, "PERCENTAGE"],
+					[88, 91, "COMPANY"]
+				]
+			}
+		],
+		["Meanwhile, for the September quarter, the company reported a consolidated net loss of Rs 184.06 crore versus a net profit of Rs 47.67 crore in the year ago quarter.",
+			{
+				"entities": [
+					[86, 101, "MONEY"],
+					[125, 139, "MONEY"]
+				]
+			}
+		],
+		[" ", {
+			"entities": []
+		}],
+		["Its total income was at Rs 110.61 crore during the quarter under review against Rs 979.40 crore in the corresponding quarter last fiscal. PVR's total expenses were at Rs 389.37 crore in July-September 2020-21.",
+			{
+				"entities": [
+					[24, 39, "MONEY"],
+					[80, 95, "MONEY"],
+					[117, 137, "TIME PERIOD"],
+					[138, 141, "COMPANY"],
+					[167, 182, "MONEY"],
+					[186, 208, "TIME PERIOD"]
+				]
+			}
+		],
+		["Financial performance of the company for Q2, FY 21 was impacted by the continued lockdown announced due to COVID-19 outbreak, which disrupted the company's operations, said PVR in a post-earnings statement.",
+			{
+				"entities": [
+					[42, 44, "TIME PERIOD"],
+					[46, 51, "TIME PERIOD"]
+				]
+			}
+		],
+		["PVR said its results were not comparable as business was impacted due to temporary closures of cinemas.",
+			{
+				"entities": []
+			}
+		],
+		[" ", {
+			"entities": []
+		}],
+		["Under Unlock 5.0 guidelines, the government has permitted cinemas to reopen October 15 onwards with 50 percent capacity. So far , 16 states and UTs, where PVR has a presence, have permitted cinemas to restart operations. Out of total of 831 screens of the company, over 575 have received permission to reopen, it said.",
+			{
+				"entities": [
+					[76, 86, "TIME PERIOD"],
+					[100, 110, "PERCENTAGE"],
+					[154, 157, "COMPANY"]
+				]
+			}
+		],
+		["PVR Ltd Chairman cum Managing Director Ajay Bijli said: ' We are eagerly waiting for the reopening of other states, specifically Maharashtra and Telangana so that business can gradually get back to normal. We are taking all possible precautions so that both our customers and employees feel safe while visiting their favourite cinema . '",
+			{
+				"entities": [
+					[8, 16, "ROLE"],
+					[21, 38, "ROLE"],
+					[39, 49, "NAME"],
+					[128, 139, "ROLE"],
+					[144, 153, "ROLE"]
+				]
+			}
+		]
+	],
+	"classes": ["NAME",
+		"COMPANY",
+		"ROLE",
+		"PERCENTAGE",
+		"WEEKDAY",
+		"MONEY",
+		"TIME PERIOD",
+		"STATES"
+	]
+}

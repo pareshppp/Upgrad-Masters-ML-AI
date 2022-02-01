@@ -17,6 +17,11 @@ Augmentor = "^0.2.9"
 scipy = "^1.7.3"
 jupyterlab = "^3.2.4"
 xgboost = "^1.5.1"
+Pillow = "^8.4.0"
+opencv-python = "^4.5.4"
+pycrf = "^0.0.1"
+sklearn-crfsuite = "^0.3.6"
+spacy = "^3.2.1"
 
 [tool.poetry.dev-dependencies]
 

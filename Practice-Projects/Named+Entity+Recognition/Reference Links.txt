@@ -1,0 +1,11 @@
+ https://spacy.io/models
+ https://spacy.io/usage/models
+ https://github.com/tecoholic/ner-annotator
+ https://prodi.gy/docs/named-entity-recognition
+ https://sklearn-crfsuite.readthedocs.io/en/latest/
+ https://sklearn-crfsuite.readthedocs.io/en/latest/tutorial.html
+ https://medium.com/data-science-in-your-pocket/named-entity-recognition-ner-using-conditional-random-fields-in-nlp-3660df22e95c
+ https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/
+ https://spacy.io/usage/spacy-101
+ https://spacy.io/usage/training
+ https://www.dropbox.com/sh/qrgmvw0ti6hckrw/AADo3iwwkEFg5kzJSkwP6sjca?dl=0
