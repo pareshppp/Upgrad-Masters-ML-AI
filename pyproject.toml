@@ -26,6 +26,10 @@ nltk = "^3.7"
 plotly = "^5.6.0"
 wordcloud = "^1.8.1"
 gym = "^0.23.1"
+Flask = "^2.1.2"
+fastapi = "^0.76.0"
+uvicorn = "^0.17.6"
+gTTS = "^2.2.4"
 
 [tool.poetry.dev-dependencies]
 

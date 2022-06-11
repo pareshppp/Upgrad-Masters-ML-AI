@@ -1,0 +1,9 @@
+fastapi
+matplotlib
+numpy
+pandas
+pydantic
+scikit-learn
+scipy
+seaborn
+"uvicorn[standard]"
